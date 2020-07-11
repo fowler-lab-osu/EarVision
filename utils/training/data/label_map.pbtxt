@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'fluorescent'
+}
+
+item {
+  id: 2
+  name: 'nonfluorescent'
+}
