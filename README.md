@@ -1,10 +1,10 @@
-# seed_revamp
+# EarVision
 
-Organizing the seed project code base and standardizing it on TF 1.14.0
+Maize fluorescent kernel object detection in TensorFlow 1.14.0
 
 ## Setup:
 
-- Clone the seed project's version of TensorFlow's model zoo located at [this Github repo](https://github.com/buchanam/seed_models) into the base directory 
+- Clone the seed project's version of TensorFlow's model zoo located at [this Github repo](https://github.com/fowler-lab-osu/EarVision_TensorFlow_Object_Detection_API) into the base directory 
 
 - Set up an Anaconda environment using the `seed_conda.yml` file provided in this repo. Activate this environment
 
