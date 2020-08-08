@@ -12,7 +12,7 @@ Maize fluorescent kernel object detection in TensorFlow 1.14.0
 
 - Run the data preperation tool followed by whichever tools are approriate
 
-Note: the following three files are too large for the EarVision public github repo:  
+**Note: the following three files are too large for the EarVision public github repo:**  
 https://github.com/fowler-lab-osu/EarVision/blob/master/data/default_checks/model.ckpt-50000.data-00000-of-00001  
 https://github.com/fowler-lab-osu/EarVision/blob/master/data/faster_rcnn_coco/frozen_inference_graph.pb  
 https://github.com/fowler-lab-osu/EarVision/blob/master/data/faster_rcnn_coco/model.ckpt.data-00000-of-00001
